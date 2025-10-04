@@ -103,6 +103,13 @@ def carregar_dados():
             "link": "https://www.instagram.com/p/DOJp4kck7XL/?img_index=1",
             "imagem_thumbnail": "assets/print.png"
         },
+                {
+            "titulo": "Post Agral",
+            "tipo": "Imagem",
+            "descricao": "Post",
+            "link": "https://www.instagram.com/p/DPOvmKdjU9a/",
+            "imagem_thumbnail": "assets/agjet.png"
+        },
     ]
 
     df = pd.DataFrame(dados_portfolio)
