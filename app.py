@@ -52,7 +52,7 @@ def carregar_dados():
             "tipo": "Imagem",
             "descricao": "Criação de carrosséis",
             "link": "https://www.behance.net/gallery/232803187/Carrossis-Instagram/modules/1335979025",
-            "imagem_thumbnail": "assets\Carrosséis Instagram.png"
+            "imagem_thumbnail": "assets/carrosseisinstagram.png"
         },
         {
             "titulo": "Uma produção familiar",
@@ -66,7 +66,7 @@ def carregar_dados():
             "tipo": "Imagem",
             "descricao": "Diagramação de manuais",
             "link": "https://www.behance.net/gallery/232801933/Diagramacao-de-manuais-de-instrucoes",
-            "imagem_thumbnail": "assets\Diagramação.png"
+            "imagem_thumbnail": "assets/diagramacao.png"
         },
         {
             "titulo": "Compostador de Resíduos Orgânicos",
@@ -80,7 +80,7 @@ def carregar_dados():
             "tipo": "Vídeo",
             "descricao": "Trabalho feito para Orion",
             "link": "https://www.instagram.com/reel/DNlG-8ZugCf/",
-            "imagem_thumbnail": "assets\Rodrigo Alandia.png"
+            "imagem_thumbnail": "assets/rodrigoalandia.png"
         },
                 {
             "titulo": "Lavadora de Alta pressão",
