@@ -82,12 +82,26 @@ def carregar_dados():
             "link": "https://www.instagram.com/reel/DNlG-8ZugCf/",
             "imagem_thumbnail": "assets/rodrigoalandia.png"
         },
-                {
+        {
             "titulo": "Lavadora de Alta pressão",
             "tipo": "Vídeo",
             "descricao": "Trabalho feito para JactoClean",
             "link": "https://www.youtube.com/watch?v=6Kj-4KhYYr4",
             "imagem_thumbnail": ""
+        },
+        {
+            "titulo": "Lançamento J7400",
+            "tipo": "Vídeo",
+            "descricao": "Trabalho feito para JactoClean",
+            "link": "https://www.instagram.com/p/DN37Kcwibh_/",
+            "imagem_thumbnail": "assets/thumbc.png"
+        },
+        {
+            "titulo": "Post Veneto Agricultura",
+            "tipo": "Imagem",
+            "descricao": "Post",
+            "link": "https://www.instagram.com/p/DOJp4kck7XL/?img_index=1",
+            "imagem_thumbnail": "assets/print.png"
         },
     ]
 
